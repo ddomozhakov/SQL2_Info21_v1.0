@@ -1,0 +1,14 @@
+id,checkingpeer,checkedpeer,pointsamount
+1,SuperChel,BananaPeer,1
+2,BananaPeer,SuperChel,1
+3,austpowe,BerryPeer,3
+4,TommyGun,SuperChel,2
+5,SuperChel,austpowe,2
+6,BerryPeer,TommyGun,2
+7,BerryPeer,BananaPeer,2
+8,austpowe,SuperChel,1
+9,SuperChel,TommyGun,1
+10,BananaPeer,austpowe,1
+11,BananaPeer,BerryPeer,1
+12,austpowe,BananaPeer,1
+13,TommyGun,austpowe,1

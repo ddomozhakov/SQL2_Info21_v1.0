@@ -1,0 +1,7 @@
+title,parenttask,maxxp
+C2_SimpleBashUtils,,250
+C3_S21_StringPlus,C2_SimpleBashUtils,500
+C4_S21_math,C2_SimpleBashUtils,300
+C7_S21_SmartCalc_v1.0,C3_S21_StringPlus,500
+D01_Linux,C3_S21_StringPlus,300
+CPP1_s21_matrix+,C7_S21_SmartCalc_v1.0,300

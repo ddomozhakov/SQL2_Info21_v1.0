@@ -1,0 +1,7 @@
+id,peer,recommendedpeer
+1,BananaPeer,SuperChel
+2,BerryPeer,austpowe
+3,SuperChel,TommyGun
+4,austpowe,SuperChel
+5,BananaPeer,BerryPeer
+6,TommyGun,SuperChel
