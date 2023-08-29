@@ -1,5 +1,5 @@
 # SQL2_Info21_v1.0
-Study project data analysis and statistics
+
 Учебный проект по языку SQL (Школа 21)
 
 Задание разделено на четыре части.
